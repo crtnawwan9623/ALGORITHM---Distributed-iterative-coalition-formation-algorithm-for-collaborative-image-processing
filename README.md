@@ -1,1 +1,1 @@
-# Distributed-and-Iterative-Coalition-Formatioin-Game-for-collaborative-image-processing
+# Distributed-and-iterative-coalition-formatioin-game-for-collaborative-image-processing
